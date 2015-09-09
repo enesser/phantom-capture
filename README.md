@@ -2,6 +2,8 @@
 
 This is a simple program for [PhantomJS](http://phantomjs.org/) that automates capturing screenshots for a website on multiple [devices](#devices) by simulating various viewports and user agents.
 
+![Sample screenshots](https://cloud.githubusercontent.com/assets/5659221/9769951/d9ff271a-56f2-11e5-886a-908bf6281fec.png)
+
 ## Requirements
 
 [PhantomJS](http://phantomjs.org/) is required and can be easily installed on Mac OS X via HomeBrew.
