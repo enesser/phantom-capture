@@ -17,19 +17,19 @@ For other operating systems, please see [http://phantomjs.org/download.html](htt
 ## Usage
 
 ```shell
-$ phantomjs pc.js [url] [optional location]
+$ phantomjs capture.js [url] [optional location]
 ```
 
 Capture screenshots for **https://dribbble.com/**:
 
 ```shell
-$ phantomjs pc.js https://dribbble.com/
+$ phantomjs capture.js https://dribbble.com/
 ```
 
 Capture screenshots for **https://dribbble.com/** in a subdirectory called **./dribble/**
 
 ```shell
-$ phantomjs pc.js https://dribbble.com/ ./dribble
+$ phantomjs capture.js https://dribbble.com/ ./dribble
 ```
 
 ## Blank Screenshots with SSL Sites
